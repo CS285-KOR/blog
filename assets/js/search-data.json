@@ -28,8 +28,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "With Us",
+          "content": "CS285 강의에 관한 한국어 공부 정리 자료를 올리는 블로그입니다. . Github organization CS285-KOR에 들어오셔서 함께 블로그를 작성하고 싶으신 분들은 curieuxjy@gmail.com으로 연락주시면 감사하겠습니다. 😊 .",
           "url": "https://cs285-kor.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
